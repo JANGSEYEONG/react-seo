@@ -38,7 +38,7 @@
 
 ## SEO 스코어 분석
 
-- 스코어 분석에 사용한 서비스: (링크 적기, 예: https://www.seobility.net/en/seocheck/)
+- 스코어 분석에 사용한 서비스: https://seositecheckup.com/seo-audit/fanciful-platypus-5c24c5.netlify.app
 
 ### 개선점
 
@@ -47,3 +47,4 @@
 - H1 태그 추가
 - 웹 서버에서 HTML 페이지 GZip 압축 전송 추가 필요.
 - meta title, description 등에 키워드를 포함
+- 각 페이지에 맞는 키워드 추가
